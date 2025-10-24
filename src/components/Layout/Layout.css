@@ -53,4 +53,10 @@
 
   }
 
+  @media (max-width: 500px) {
+    .right-panel{
+      padding: 20px 0px;
+    }
+  }
+
  

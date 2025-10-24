@@ -16,7 +16,7 @@
 
   @media (max-width: 500px) {
     .gallery-widget{
-      padding: 20px 30px;
+      padding: 20px 35px;
     }
   }
   
@@ -229,4 +229,21 @@
     height: 30px;
     z-index: 10;
     cursor: move;
+  }
+
+  
+  @media (max-width: 500px) {
+    .info-icon{
+      width: 16px !important;
+      height: 16px !important;
+      top: 35px !important;
+      left: 8px !important;
+    }
+
+    .drag-icon{
+      top: 55% !important;
+      left: 8px !important;
+      width: 20px !important;
+      height: 25px !important;
+    }
   }

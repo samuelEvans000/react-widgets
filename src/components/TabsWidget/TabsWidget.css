@@ -13,7 +13,7 @@
 
   @media (max-width: 500px) {
   .tabs-widget{
-    padding: 20px 30px;
+    padding: 20px 35px;
   }
   }
   
@@ -157,7 +157,7 @@
       width: 16px !important;
       height: 16px !important;
       top: 35px !important;
-      left: 5px !important;
+      left: 8px !important;
     }
 
     .drag-icon{

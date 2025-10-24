@@ -1,0 +1,15 @@
+.empty{
+    border: 1px solid #96BEE7;
+    border-radius: 27px;
+    height: 700px;
+    width: 100%;
+    max-width: 800px;
+    background: #616161D1;
+}
+
+@media (max-width: 1024px) {
+    .empty{
+        height: 500px;
+        width: 85vw;
+    }
+}

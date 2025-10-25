@@ -7,7 +7,7 @@
     background: #616161D1;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1010px) {
     .empty{
         height: 500px;
         width: 85vw;
